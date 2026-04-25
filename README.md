@@ -64,7 +64,7 @@ The **AI Interview System** is a full-stack backend application that simulates a
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Interview-System.git
+git clone https://github.com/raghavtanuu/AI-Interview-System.git
 cd AI-Interview-System
 ```
 
